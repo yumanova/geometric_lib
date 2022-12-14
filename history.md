@@ -21,4 +21,4 @@
 * notepad history.md
 * git add history.md
 * git commit -m 'Created history.md'
-* git push origin main
+* git push origin --all
